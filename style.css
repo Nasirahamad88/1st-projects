@@ -1,0 +1,13 @@
+table,tr,td,th{
+border: 10px solid black;
+border-radius:10px;
+background-color: aqua;
+}
+body{
+    background-attachment:fixed;
+    image-rendering: auto;
+
+}
+style{
+    p
+}
